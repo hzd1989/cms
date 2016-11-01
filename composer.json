@@ -2,7 +2,7 @@
     "name": "hzd1989/cms",
     "description": "cms",
     "license": "Apache-2.0",
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-master",
     "authors": [
         {
             "name": "hzd",
